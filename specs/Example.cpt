@@ -1,0 +1,56 @@
+Created by testinium on 15.11.2022
+
+This is a concept file with following syntax for each concept.
+# Uygulamayi Ac ve Skip Butonuna Tikla
+* "3" saniye bekle
+* Birinci Skip butonuna tikla
+* "3" saniye bekle
+* İkinci Skip butonuna tikla
+* "4" saniye bekle
+
+# Decline Butonuna Tikla ve Uygulamanın Anasayfada Oldugu Kontrol Edilir
+* Decline butonuna tikla
+* "3" saniye bekle
+* Close Popup
+* "3" saniye bekle
+* Anasayfada oldugunu kontrol et
+* "5" saniye bekle
+
+# Menuden Book Tabina Gecis Yap
+* Menuden Book tabini sec
+* "4" saniye bekle
+
+# Seyatah Tipi Olarak One Way Sec
+* Seyahat tipini one way olarak sec
+* "3" saniye bekle
+
+# Kalkis Havaalani Olarak Berlin Sec
+* Kalkis havaalanini Berlin olarak sec
+* "4" saniye bekle
+
+# Varis Havaalani Olarak Istanbul Sec
+* İnis havaalanini Istanbul olarak sec
+* "4" saniye bekle
+
+# Yedi Gun Sonrasi Icin Ucus Tarihi Sec
+* Yedi gun sonrasi icin tarih degerini sec
+* "4" saniye bekle
+
+# Economy Class Sec
+* Ekonomi class sec
+* "4" saniye bekle
+
+# Arama Butonuna Tikla
+* Ucus ara
+* "4" saniye bekle
+
+# Ucus Secim Ekraninin Geldigini Kontrol Et
+* Ucus Secim ekrani geldi mi kontrol et
+* "4" saniye bekle
+
+# Rastgele Ucus Sec
+* Rastgele ucusu sec
+* "6" saniye bekle
+
+# Ucus Secim Ekranindaki Ucus Saati ile Ucus Ekranindaki Saat Degerlerinin Ayni Oldugunu Kontrol Et
+* Saat degerini kontrol et
